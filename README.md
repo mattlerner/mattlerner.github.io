@@ -20,7 +20,7 @@ td {
 </style>
 
 
-![](static/images/ml_sunflower.png)
+![](static/images/ml_bw.jpg)
 
 I am a writer / researcher / quantitative social scientist / recovering data scientist.
 
