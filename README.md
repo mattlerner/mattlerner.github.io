@@ -33,7 +33,7 @@ You can reach me at m [dot] a [dot] lerner [at] gmail [dot] com.
 
 ## *The Economist*
 
-I was an Editorial Fellow at *The Economist* from January to July 2021. I worked jointly for the US section and the data team. I published 25 pieces in 27 weeks, including 15 articles in the print magazine itself. My favorites are [this piece about homelessness in LA](https://www.economist.com/united-states/2021/05/15/what-to-do-about-skid-row) and [this data story about an uptick in car crashes in 2020](https://www.economist.com/graphic-detail/2021/04/03/americans-are-driving-less-but-more-are-dying-in-accidents).
+I was an Editorial Fellow at *The Economist* from January 2021 to July 2021. I worked jointly for the US section and the data team. I published 25 pieces in 27 weeks, including 15 articles in the print magazine itself. My favorites are [this piece about homelessness in LA](https://www.economist.com/united-states/2021/05/15/what-to-do-about-skid-row) and [this data story about an uptick in car crashes in 2020](https://www.economist.com/graphic-detail/2021/04/03/americans-are-driving-less-but-more-are-dying-in-accidents).
 
 <table>
 <tr>
