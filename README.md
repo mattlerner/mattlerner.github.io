@@ -24,7 +24,7 @@ td {
 
 I am a writer / researcher / quantitative social scientist / recovering data scientist.
 
-With my teammate Pearse (and Grigori, our 1999 Opel Corsa), I was a finisher of the 2017 Mongol Rally. We chronicled our journey on our [terrible Instagram](https://instagram.com/teamrasputin). I draw cartoons, play guitar, and speak Spanish and Arabic. I like `tidyverse`, kettlebells, and Dominos pizza. I dislike `data.table`, bowling, and nachos.
+I draw cartoons, play guitar, and speak Spanish and Arabic. I like `tidyverse`, kettlebells, and Dominos pizza. I dislike `data.table`, bowling, and nachos. With my teammate Pearse (and Grigori, our 1999 Opel Corsa), I was a finisher of the 2017 Mongol Rally. We chronicled our journey on our [terrible Instagram](https://instagram.com/teamrasputin).
 
 You can reach me at m [dot] a [dot] lerner [at] gmail [dot] com.
 
@@ -151,12 +151,17 @@ I was an Editorial Fellow at *The Economist* from January 2021 to July 2021. I w
 </table>
 <span></span>
 
-# Code and other stuff
+# Code
 
-- While at [BrightHive](http://brighthive.io/), I wrote the grant application for a ~$1m award from the federal Department of Education. One of the deliverables for that grant was the the [ROI Toolkit](https://github.com/brighthive/roi-toolkit/), a Python library for calculating return on investment metrics in education.
+- While at [BrightHive](http://brighthive.io/), I wrote the grant application for a ~$1m award from the federal Department of Education. One of the deliverables for that grant was the the [ROI Toolkit](https://github.com/brighthive/roi-toolkit/), a Python library that I wrote for calculating return on investment metrics in education.
 
-- For a project investigating the effectiveness of lobbying, I worked up a [GitHub repo](https://github.com/mattlerner/lobbying) with R code for reading and parsing US [lobbying disclosure data](https://lda.senate.gov/system/public/)
+- For a project investigating the effectiveness of lobbying (see below), I worked up a [GitHub repo](https://github.com/mattlerner/lobbying) with R code for reading and parsing US [lobbying disclosure data](https://lda.senate.gov/system/public/)
 
 - Way back in 2015, I created [PAC Explorer](https://pacexplorer.org/), a sort-of-retro-looking network visualization mapping funding flows between PACs and political candidates.
 
-- I wrote this [review of lobbying effectiveness](https://forum.effectivealtruism.org/posts/K638s9L2wCEW78DEF/informational-lobbying-theory-and-effectiveness) on the Effective Altruism Forum.
+# Other stuff
+
+- I wrote this [review of lobbying effectiveness](https://forum.effectivealtruism.org/posts/K638s9L2wCEW78DEF/informational-lobbying-theory-and-effectiveness) (see above) on the Effective Altruism Forum.
+
+- I wrote my [MA thesis](https://arxiv.org/abs/1910.04083) at Columbia on the effects of the Alaska Permanent Fund Dividend, a UBI-like cash transfer program begun in 1980. I used a synthetic control model and found no effects on high school completion rates (read the thesis to understand why I might have expected to see an effect in the first place).
+
