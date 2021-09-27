@@ -22,7 +22,7 @@ td {
 
 ![](static/images/ml_bw.jpg)
 
-I am a writer / researcher / quantitative social scientist / recovering data scientist.
+I am a writer / researcher / quantitative social scientist / recovering data scientist. I'm currently Research Director at [Founders Pledge](https://founderspledge.com/).
 
 I draw cartoons, play guitar, and speak Spanish and Arabic. I like `tidyverse`, kettlebells, and Dominos pizza. I dislike `data.table`, bowling, and nachos. With my teammate Pearse (and Grigori, our 1999 Opel Corsa), I was a finisher of the 2017 Mongol Rally. We chronicled our journey on our [terrible Instagram](https://instagram.com/teamrasputin).
 
